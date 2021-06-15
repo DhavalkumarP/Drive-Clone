@@ -1,0 +1,21 @@
+nav{
+    width:100vw;
+    height: Auto;
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+nav div{
+    background-color: lightgreen;
+}
+.Link{
+    text-decoration: none;
+    background-color: lightgreen;
+    color: black;
+    font-size: 38px;
+}
+img{
+    background-color: blue;
+}
